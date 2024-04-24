@@ -1,6 +1,6 @@
 TravelBliss - New Jersey Tours
 
-This is a Tourist Website by Group-7.
+This is a Tourist Website.
 
 TravelBliss is a tour website designed to make it simple for users to search for holiday tours within New Jersey, get quick results from their searches, and move smoothly through the booking process.
 
