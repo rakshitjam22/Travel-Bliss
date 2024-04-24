@@ -24,7 +24,5 @@ Admin Credentials-
 email - admin@example.com
 password - test1234
 
-User Credentials-
-email - sraykar@steven.edu
-password - test1234
+
 
